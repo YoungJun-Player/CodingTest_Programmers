@@ -1,1 +1,1 @@
-# CodingTest_Python
+# 프로그래머스 파이썬, SQL 풀이 공간입니다

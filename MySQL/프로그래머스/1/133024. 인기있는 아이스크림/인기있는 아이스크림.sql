@@ -1,0 +1,5 @@
+-- 코드를 입력하세요
+SELECT FLAVOR
+from FIRST_HALF
+where TOTAL_ORDER
+order by TOTAL_ORDER desc, SHIPMENT_ID
